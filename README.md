@@ -20,4 +20,5 @@ Este es mi primer proyecto subido a **GitHub**, una calculadora básica desarrol
    git clone https://github.com/Rolfata/calculadora.git
 
 
-Autor: Rolfy Palomino Galindo, Estudiante de Tecnología en Desarrollo de Software, en proceso de fortalecer mis habilidades de programación y versionamiento.
+Autor: Rolfy Palomino Galindo.
+Estudiante de Tecnología en Desarrollo de Software, en proceso de fortalecer mis habilidades de programación y versionamiento.
