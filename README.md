@@ -85,10 +85,11 @@ Rolfy Palomino Galindo
 📧 rolfypg@gmail.com
 
 💼 LinkedIn
- (puedes agregar tu enlace si lo tienes)
+ www.linkedin.com/in/rolfypalomino
 
 Proyecto académico y personal de práctica, orientado a mejorar habilidades en desarrollo Java y control de versiones con Git.
 
 📜 Licencia
 
 Este proyecto se distribuye bajo la licencia MIT, lo que permite su uso y modificación con fines educativos o personales.
+
